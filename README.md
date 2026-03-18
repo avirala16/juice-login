@@ -25,6 +25,3 @@ http://localhost:3000
 ## Example XSS Payload
 Enter this in the email field:
 <script>alert('XSS')</script>@test.com
-
-## Author
-Aviral Agarwal
